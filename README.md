@@ -96,18 +96,44 @@ print("For population =70,000,we predict a profit a profit of $"+str(round(predi
 
 ## Output:
 Profit Prediction Graph
+
+
 ![image](https://github.com/user-attachments/assets/1d4473e2-4693-4dcc-a0f7-444d9048a7fc)
+
+
 Compute Cost Value
+
+
 ![image](https://github.com/user-attachments/assets/670b3d29-a3c3-4f5d-9d3d-c1599285cdaf)
+
+
 h(x) value
+
+
 ![image](https://github.com/user-attachments/assets/ae85a1e9-2125-4273-a89b-febbb2813e71)
+
+
 Cost function using Gradient Descent Graph
+
+
 ![image](https://github.com/user-attachments/assets/7c69681e-1e2c-49f7-8f12-236b944f80e6)
+
+
 Profit Prediction Graph
+
+
 ![image](https://github.com/user-attachments/assets/2b0e41b3-4785-4c12-ae91-553248da6a90)
+
+
 Profit for the Population 35,000
+
+
 ![image](https://github.com/user-attachments/assets/1c8c77de-88d3-425c-97ee-7dccfd1490cc)
+
+
 Profit for the Population 70,000
+
+
 ![image](https://github.com/user-attachments/assets/e5bd7198-2588-4c14-a7b1-d617166aaf75)
 
 ## Result:
